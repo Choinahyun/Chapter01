@@ -8,8 +8,13 @@ public class NHelloWorld01 {
 
 		Scanner scanner = new Scanner(System.in);
 		int count = scanner.nextInt();
+
 		
-		System.out.println(count);
+		int i = 1;
+		while (i <= count){
+			System.out.println("[" + i + "] Hello World");
+			i++;
+		}
 
 		
 	}
