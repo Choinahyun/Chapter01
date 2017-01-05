@@ -6,8 +6,8 @@ public class ArrayEqual {
 
 		int[] a = {10, 20, 30};
 		int[] b = {100, 200, 300};
-		boolean equals (a,b);
-		System.out.println(equals(a,b));
+		boolean result = equals (a,b);
+		System.out.println(result);
 
 	}
 	
