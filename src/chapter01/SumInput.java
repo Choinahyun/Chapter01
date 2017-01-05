@@ -15,7 +15,7 @@ public class SumInput {
 			sum += i;
 		}
 
-		System.out.println("1 부터 " + num + "까지의 합 : " + sum);
+		System.out.println("1부터 " + num + "까지의 합 : " + sum);
 		
 	}
 
